@@ -1,4 +1,4 @@
-﻿namespace ExcelCompare
+﻿namespace WinformStudy
 {
     partial class Form1
     {
