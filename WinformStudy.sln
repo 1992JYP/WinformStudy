@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformStudy", "ExcelCompare\WinformStudy.csproj", "{ACBF67A5-B3C0-4F87-BCD5-2F17A5FC4405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBF67A5-B3C0-4F87-BCD5-2F17A5FC4405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBF67A5-B3C0-4F87-BCD5-2F17A5FC4405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBF67A5-B3C0-4F87-BCD5-2F17A5FC4405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBF67A5-B3C0-4F87-BCD5-2F17A5FC4405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EFAE1C-29A0-47A4-BC3F-DCDFFA3502E5}
+	EndGlobalSection
+EndGlobal
